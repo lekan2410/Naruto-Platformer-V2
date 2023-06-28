@@ -48,3 +48,8 @@ shinobikingdom_d66w6mp
 sasorifan_xd_dcqykwc
 
 rbm_kyuubi_dbobu9m
+
+# How to Use
+
+Ensure that you have the pygame library installed on your IDE to ensure that you can run the game.
+
