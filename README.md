@@ -3,7 +3,7 @@
 
 This Project is a second part of my previous project i have made for a course named "Naruto Platformer Demo".
 This project is a second version of the Demo, but instead of it being a platformer game, i have changed it into a 
-2D fighter game because fighting games 
+2D fighter game because fighting game is my favourite type of genre. 
 
 When you start the game, there is a menu that allows you to change characters and the music of the game, quit and start the game.
 WARNING, may lag a bit when the game starts but eventually speeds up when the game carries on.
