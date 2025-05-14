@@ -1,5 +1,5 @@
 #button class
-import pygam
+import pygame
 
 
 class Button():
